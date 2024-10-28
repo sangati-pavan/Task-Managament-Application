@@ -25,7 +25,7 @@ Table of Contents :
     SQLite or MongoDB (if using MongoDB, you’ll also need MongoDB Compass or MongoDB Atlas)
 
   Clone the repository
-    git clone https://github.com/yourusername/task-manager.git
+    git clone https://github.com/sangati-pavan/Task-Managament-Application.git
     cd task-manager
     
   3.1 Backend Setup :
